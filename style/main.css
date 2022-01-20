@@ -84,7 +84,7 @@ header nav a:hover {
 
 .hq-principal {
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/capa.jpg');
+    background:  linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/capa.jpg');
 
     height: 500px;
     background-size: cover;
