@@ -58,7 +58,7 @@ header nav a:hover {
 
 .comic-principal {
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/capa3.jpg');
+    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('https://i.ibb.co/z20NcxW/capa3.jpg');
 
     height: 500px;
     background-size: cover;
@@ -71,7 +71,7 @@ header nav a:hover {
 
 .manga-principal {
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/capa2.jpg');
+    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('https://i.ibb.co/7p7rGLf/capa2.jpg');
 
     height: 500px;
     background-size: cover;
@@ -84,7 +84,7 @@ header nav a:hover {
 
 .hq-principal {
     font-size: 14px;
-    background:  linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('/img/capa.jpg');
+    background:  linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url('https://i.ibb.co/PFqPq7k/capa.jpg');
 
     height: 500px;
     background-size: cover;
@@ -183,5 +183,7 @@ footer {
 }
 
 footer a img {
-    margin-top: 5px;
+    margin-top: 8px;
+    width: 25px;
+    height: 25px;
 }
