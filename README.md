@@ -1,6 +1,6 @@
 # dio-desafio-clone-netflix
 
-https://marcelogomes90.github.io/dio-desafio-clone-netflix/
+[Clone Netflix](https://marcelogomes90.github.io/dio-desafio-clone-netflix/)
 
 Inspirado pelo projeto para clonar a página da Netflix, proposto pelo bootcamp de Front-End Dio/Inter e com o objetivo de aplicar o conhecimento das aulas abordadas, apresento o ComicFlix.
 
