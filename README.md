@@ -6,7 +6,7 @@
 
 Inspirado pelo projeto para clonar a página da Netflix, proposto pelo bootcamp de Front-End Dio/Inter e com o objetivo de aplicar o conhecimento das aulas abordadas, apresento o ComicFlix. 
 
-![WhatsApp Image 2022-06-13 at 15 46 34](https://user-images.githubusercontent.com/94990663/173423466-321b16bd-a1e5-4156-b245-9c1c9d1674ef.jpeg)
+![image](https://user-images.githubusercontent.com/94990663/173423614-7cc112d6-22fb-4884-ab4d-e76405f42b2c.png)
 
 Para a elaboração do projeto foi utilizado HTML5, CSS3, JavaScript e o plugin JQuery. Com isso realizei modificações, para que a aplicação funcionasse como uma banca, oferecendo aos usuários informações sobre HQ's e os levando à loja caso haja o interesse de compra.
 
